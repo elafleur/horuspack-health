@@ -9,6 +9,7 @@ datasource:
   interval: ss
   duration: 1m
 --- 
-### % of used memory by host
+[![Health](https://raw.githubusercontent.com/elafleur/horuspack-health/master/icon.png)](https://github.com/elafleur/horuspack-health)
+#### % of used memory by host
 - Memory warning threshold (fraction of RAM) defaults at 85%
 - Memory critical threshold (fraction of RAM) defaults at 95%
