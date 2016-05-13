@@ -2,7 +2,7 @@
 format: 1A
 chart: 
   title: "Memory Usage"
-  type: time-series
+  type: line
 datasource: 
   collection: memory
   groupby: host
