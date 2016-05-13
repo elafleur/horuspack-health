@@ -1,6 +1,6 @@
 {
   "name": "health",
-  "version": "0.6",
+  "version": "0.7",
   "description": "General CPU, memory, disk and load monitoring",
   "repository": {
     "type": "git",
