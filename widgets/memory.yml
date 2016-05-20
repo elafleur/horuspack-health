@@ -4,8 +4,7 @@ chart:
   title: "Memory Usage"
   type: line
 datasource: 
-  collection: memory
-  groupby: host
+  collection: "memory groupby_host"
   interval: ss
   duration: 1m
 --- 
