@@ -9,7 +9,7 @@ Source: https://github.com/riemann/riemann-tools
 
 ``` bash
 gem install riemann-tools
-riemann-health --host my.riemann.server --tag '#health'
+riemann-health --host my.riemann.server --tag 'health'
 ```
 
 If you want to use a different tag, please make sure to also modify the namespace tag in the configuration so that both match.
