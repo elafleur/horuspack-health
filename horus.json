@@ -1,13 +1,13 @@
 {
   "name": "health",
-  "version": "0.9",
+  "version": "0.11",
   "description": "General CPU, memory, disk and load monitoring",
   "repository": {
     "type": "git",
     "url": "https://github.com/elafleur/horuspack-health"
   },
   "tags": [
-    "#health"
+    "health"
   ],
   "author": "Eric Lafleur <eric@crambit.com>",
   "producer": {
