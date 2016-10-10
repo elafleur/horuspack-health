@@ -1,1 +1,4 @@
-ns-tag: "health"
+ns-tag: '#health'
+
+# send alert if the state remains the same for at least dt seconds
+dt: 30

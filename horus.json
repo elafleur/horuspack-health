@@ -1,13 +1,13 @@
 {
   "name": "health",
-  "version": "0.11",
+  "version": "0.18",
   "description": "General CPU, memory, disk and load monitoring",
   "repository": {
     "type": "git",
     "url": "https://github.com/elafleur/horuspack-health"
   },
   "tags": [
-    "health"
+    "#health"
   ],
   "author": "Eric Lafleur <eric@crambit.com>",
   "producer": {
@@ -17,5 +17,6 @@
       "url": "https://github.com/riemann/riemann-tools"
     }
   },
-  "license": "EPL"
+  "license": "EPL",
+  "_registry": "quarry"
 }

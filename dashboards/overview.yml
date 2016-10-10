@@ -7,5 +7,14 @@ grid:
     height: 300
     tiles:
       - 
-        size: 12
+        size: 6
         widget: memory
+      - 
+        size: 6
+        widget: cpu
+      - 
+        size: 6
+        widget: load
+      - 
+        size: 6
+        widget: disk
