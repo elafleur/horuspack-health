@@ -17,6 +17,5 @@
       "url": "https://github.com/riemann/riemann-tools"
     }
   },
-  "license": "EPL",
-  "_registry": "quarry"
+  "license": "EPL"
 }
